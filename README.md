@@ -1,6 +1,6 @@
 # 💼 Personal Portfolio Website
 
-<<<<<<< HEAD
+
 Live Link: https://risevigneshportfolio.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -82,7 +82,8 @@ Mobile-friendly hamburger menu
 
 **Author**
 
-Vignesh – Frontend Developer & UI/UX Enthusiast
+Vignesh – Frontend Developer & UI/UX Enthusiast & Java Full Stack Developer
+This project was created as part of the RISE Internship 2025
 
 #License
 
