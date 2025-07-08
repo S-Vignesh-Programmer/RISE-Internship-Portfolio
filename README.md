@@ -6,7 +6,7 @@ Live Link: https://risevigneshportfolio.netlify.app/
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 =======
 Welcome to my **Personal Portfolio Website**, built to showcase my skills, projects, and resume as a Frontend Developer and UI/UX Enthusiast.
->>>>>>> 5a4b314 (Add screen recording and screenshots for RISE Internship portfolio)
+
 
 ## 🌟 About the Project
 
@@ -26,15 +26,18 @@ This portfolio is designed to be clean, minimal, responsive, and fast-loading. I
 
 ---
 
+## ScreenRecordings
+![Recordings](./src/screenRecording-Rise-Intern/rise-intern-screen.mp4)
+
 ## 🖥️ Desktop View
 
-![Desktop View](./screenshots/desktop-view.png)
+![Desktop View](./src/screenshots/desktop-view.png)
 
 ---
 
 ## 📱 Mobile View
 
-![Mobile View](./screenshots/mobile-view.png)
+![Mobile View](./src/screenshots/mobile-view.png)
 
 ---
 
